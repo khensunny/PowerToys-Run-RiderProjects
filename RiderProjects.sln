@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Community.PowerToys.Run.Plugin.RiderProjects", "Community.PowerToys.Run.Plugin.RiderProjects\Community.PowerToys.Run.Plugin.RiderProjects.csproj", "{C32F81B1-BE7A-42B1-9731-1046F0A6B0AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Community.PowerToys.Run.Plugin.RiderProjects.UnitTests", "Community.PowerToys.Run.Plugin.RiderProjects.UnitTests\Community.PowerToys.Run.Plugin.RiderProjects.UnitTests.csproj", "{E3D9EA13-3B1E-487D-9219-18DEB9C87220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C32F81B1-BE7A-42B1-9731-1046F0A6B0AD}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{C32F81B1-BE7A-42B1-9731-1046F0A6B0AD}.Debug|ARM64.Build.0 = Debug|ARM64
+		{C32F81B1-BE7A-42B1-9731-1046F0A6B0AD}.Debug|x64.ActiveCfg = Debug|x64
+		{C32F81B1-BE7A-42B1-9731-1046F0A6B0AD}.Debug|x64.Build.0 = Debug|x64
+		{C32F81B1-BE7A-42B1-9731-1046F0A6B0AD}.Release|ARM64.ActiveCfg = Release|ARM64
+		{C32F81B1-BE7A-42B1-9731-1046F0A6B0AD}.Release|ARM64.Build.0 = Release|ARM64
+		{C32F81B1-BE7A-42B1-9731-1046F0A6B0AD}.Release|x64.ActiveCfg = Release|x64
+		{C32F81B1-BE7A-42B1-9731-1046F0A6B0AD}.Release|x64.Build.0 = Release|x64
+		{E3D9EA13-3B1E-487D-9219-18DEB9C87220}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{E3D9EA13-3B1E-487D-9219-18DEB9C87220}.Debug|ARM64.Build.0 = Debug|ARM64
+		{E3D9EA13-3B1E-487D-9219-18DEB9C87220}.Debug|x64.ActiveCfg = Debug|x64
+		{E3D9EA13-3B1E-487D-9219-18DEB9C87220}.Debug|x64.Build.0 = Debug|x64
+		{E3D9EA13-3B1E-487D-9219-18DEB9C87220}.Release|ARM64.ActiveCfg = Release|ARM64
+		{E3D9EA13-3B1E-487D-9219-18DEB9C87220}.Release|ARM64.Build.0 = Release|ARM64
+		{E3D9EA13-3B1E-487D-9219-18DEB9C87220}.Release|x64.ActiveCfg = Release|x64
+		{E3D9EA13-3B1E-487D-9219-18DEB9C87220}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF666520-8AC9-4276-9762-0EA94991801B}
+	EndGlobalSection
+EndGlobal

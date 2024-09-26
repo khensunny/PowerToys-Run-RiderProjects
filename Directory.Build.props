@@ -1,0 +1,10 @@
+﻿<Project>
+    <ItemGroup Condition="'$(MSBuildProjectExtension)' == '.csproj'">
+        <PackageReference Include="StyleCop.Analyzers">
+            <PrivateAssets>all</PrivateAssets>
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+        <Compile Include="$(MSBuildThisFileDirectory)\GlobalSuppressions.cs" Link="GlobalSuppressions.cs" />
+        <AdditionalFiles Include="$(MSBuildThisFileDirectory)\StyleCop.json" Link="StyleCop.json" />
+    </ItemGroup>
+</Project>

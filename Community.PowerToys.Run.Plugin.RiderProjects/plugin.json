@@ -1,0 +1,14 @@
+{
+  "ID": "62D86F0E2E9D45BFA0E067CD14694EC2",
+  "ActionKeyword": "^",
+  "IsGlobal": false,
+  "Name": "RiderProjects",
+  "Author": "mphojele",
+  "Version": "0.1.0",
+  "Language": "csharp",
+  "Website": "https://github.com/mphojele/Powertoys-Run-RiderProjects",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.RiderProjects.dll",
+  "IcoPathDark": "Images\\riderprojects.dark.png",
+  "IcoPathLight": "Images\\riderprojects.light.png",
+  "DynamicLoading": true
+}
